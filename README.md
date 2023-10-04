@@ -20,5 +20,5 @@ Evaluated the model's performance using metrics such as accuracy, precision, rec
 Created confusion matrices and ROC curves for a comprehensive assessment.
 
 # Achieved an accuracy of [accuracy] and a precision of [precision] in predicting employee promotions.
-# Identified key factors contributing to employee promotions, providing actionable insights for HR decision-makers.
-# Improved HR decision-making by enabling early identification of high-potential employees.
+Identified key factors contributing to employee promotions, providing actionable insights for HR decision-makers.
+Improved HR decision-making by enabling early identification of high-potential employees.
